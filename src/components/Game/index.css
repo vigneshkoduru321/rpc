@@ -1,0 +1,67 @@
+.main-background {
+  background-color: #223a5f;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.score-con {
+  width: 80%;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.score {
+  background-color: white;
+  color: black;
+  width: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+.cards-con {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.rules {
+  height: 500px;
+}
+.container {
+  background-color: white;
+  height: 600px;
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 400px;
+}
+.conn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.result-imgs {
+  height: 300px;
+}
+.scoree {
+  font-family: Roboto;
+}
